@@ -1,0 +1,15 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "attach",
+            "name": "a",
+            "url": "https://code.evolio.cz/evolio/efilters/blob/master/EFilters.Shared/EDataContext.cs",
+            "port": 80
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+.custom-class{
+    color: #81ffff;
+}
+
+.code.dark .custom-class{
+    color: pink;
+}   
+
+.code.dark .custom-link{
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+}  
+
+.code.dark .custom-link:hover{
+    color: lightblue;
+    cursor: pointer;
+    text-decoration: underline;
+}  
